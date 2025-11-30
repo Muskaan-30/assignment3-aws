@@ -4,7 +4,7 @@ env:
   variables:
     AWS_REGION: "us-east-1"
     # REPLACE WITH YOUR REAL ID AND REPO NAME
-    ECR_URI: "YOUR_ACCOUNT_ID.dkr.ecr.us-east-1.amazonaws.com/[lastname]-repo"
+    ECR_URI: "075737418482.dkr.ecr.us-east-1.amazonaws.com/fatima-repo"
 
 phases:
   install:
